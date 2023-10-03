@@ -12,3 +12,17 @@ D:\Miscellaneous\JetBrains\Rider\Solutions\TicTacToe\obj\Debug\net7.0-windows\re
 D:\Miscellaneous\JetBrains\Rider\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.pdb
 D:\Miscellaneous\JetBrains\Rider\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.genruntimeconfig.cache
 D:\Miscellaneous\JetBrains\Rider\Solutions\TicTacToe\obj\Debug\net7.0-windows\ref\TicTacToe.dll
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.exe
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.deps.json
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.runtimeconfig.json
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.dll
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\bin\Debug\net7.0-windows\TicTacToe.pdb
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.AssemblyInfoInputs.cache
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.AssemblyInfo.cs
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.dll
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\refint\TicTacToe.dll
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.pdb
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\TicTacToe.genruntimeconfig.cache
+D:\Other\JetBrains\Rider IDE\Solutions\TicTacToe\obj\Debug\net7.0-windows\ref\TicTacToe.dll

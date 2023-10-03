@@ -8,7 +8,7 @@ public class Frame : Form
     {
         Icon = Icon.ExtractAssociatedIcon(Path.GetDirectoryName(stackFrame.GetFileName()) + "\\Images\\TicTacToeIcon.ico");
         Text = "Tic Tac Toe";
-        Size = new Size(900, 900);
+        Size = new Size(600, 600);
         BackColor = Color.White;
         
         TableLayoutPanel tbl = new();
@@ -120,6 +120,8 @@ public class Frame : Form
         }
 
         _n++;
+        
+        if(_n == 9) GameEnd("Tie!");
     }
         
 }
